@@ -1,6 +1,6 @@
 # Vanilla Python API Vercel Deployment Example
 
-### Example Code for the Article: Simple Guide on Deploying Vanilla Python API on Vercel — Free of Cost
+### This Example Code is a Part of an Article: Simple Guide on Deploying Vanilla Python API on Vercel — Free of Cost
 
 <hr />
 
